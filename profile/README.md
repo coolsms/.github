@@ -9,5 +9,6 @@
   <br/><br/>
 </p>
 <p align="center">
-  CoolSMS는 <b>SOLAPI SDK</b>를 100% 지원합니다. 향후 최신 기능은 SOLAPI SDK를 통해 모두 지원되오니 신규 SDK 사용자는 <b><a href="https://github.com/solapi">SOLAPI SDK</a></b>를 이용해보세요!
+  CoolSMS는 <b>SOLAPI SDK</b>를 100% 지원합니다. 향후 최신 기능은 SOLAPI SDK를 통해 모두 지원되오니<br/>
+  신규 SDK 사용자께서는 <b><a href="https://github.com/solapi">SOLAPI SDK</a></b>를 이용해보세요!
 </p>
